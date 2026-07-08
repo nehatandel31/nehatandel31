@@ -15,11 +15,8 @@
 
 ![](https://img.shields.io/badge/📍-Navi_Mumbai,_India-6366F1?style=for-the-badge)
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href=" https://www.linkedin.com/in/neha-tandel-b01560324">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -27,17 +24,17 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/nehatandel31">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=nehatandel31&style=for-the-badge&color=7C3AED)
 
-![](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=6D28D9)
+![](https://img.shields.io/github/followers/nehatandel31?style=for-the-badge&color=6D28D9)
 
-![](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=5B21B6)
+![](https://img.shields.io/github/stars/nehatandel31?style=for-the-badge&color=5B21B6)
 
 </div>
 
@@ -351,18 +348,6 @@ Active member of the Computer Society of India, participating in technical works
 
 ---
 
-## Currently Preparing
-
-![](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![](https://img.shields.io/badge/Oracle-Java-CC2927?style=for-the-badge&logo=oracle&logoColor=white)
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-![](https://img.shields.io/badge/NPTEL-AI_&_ML-6D28D9?style=for-the-badge)
-
----
-
 # Core Competencies
 
 | Technical | Professional |
@@ -400,35 +385,6 @@ Active member of the Computer Society of India, participating in technical works
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehatandel31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehatandel31&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nehatandel31&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nehatandel31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
-
-</div>
-
----
 
 # Contribution Activity
 
